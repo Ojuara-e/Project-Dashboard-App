@@ -108,9 +108,7 @@ streamlit run dash_app.py
 ## 📌 Notes
 
 * This is an **educational/portfolio project** focused on practicing dashboard development.
-* The database file (`dash_database.db`) is included for convenience and local testing. ([GitHub][1])
-
----
+* The database file (`dash_database.db`) is included for convenience and local testing.
 
 ## 🧩 Suggested Improvements (Optional)
 
@@ -127,15 +125,14 @@ streamlit run dash_app.py
 
 Este repositório contém uma **Data App de Dashboard para Sales Analytics**, desenvolvida em **Python com Streamlit**, com o objetivo de entregar uma interface simples e interativa para análise de indicadores e métricas de negócio.
 
-O projeto foi estruturado para rodar localmente e inclui um arquivo de banco de dados para persistência dos dados no ambiente de teste. ([GitHub][1])
-
+O projeto foi estruturado para rodar localmente e inclui um arquivo de banco de dados para persistência dos dados no ambiente de teste.
 ---
 
 ## 🎯 Objetivos
 
 * Criar uma experiência prática de **dashboard interativo**
 * Praticar desenvolvimento de **Data Apps** em Python (ponta a ponta)
-* Organizar um mini projeto com **código + dependências + banco local** ([GitHub][1])
+* Organizar um mini projeto com **código + dependências + banco local**
 
 ---
 
@@ -144,8 +141,7 @@ O projeto foi estruturado para rodar localmente e inclui um arquivo de banco de 
 * Interface interativa com Streamlit
 * Estrutura amigável para análise de métricas
 * Persistência local via arquivo `.db`
-* Instalação simples via `requirements.txt` ([GitHub][1])
-
+* Instalação simples via `requirements.txt`
 ---
 
 ## 📁 Estrutura do Projeto
@@ -157,8 +153,6 @@ O projeto foi estruturado para rodar localmente e inclui um arquivo de banco de 
 └─ LEIAME.txt
 ```
 
-([GitHub][1])
-
 ---
 
 ## 🛠️ Tecnologias
@@ -166,8 +160,7 @@ O projeto foi estruturado para rodar localmente e inclui um arquivo de banco de 
 * Python
 * Streamlit
 * Bibliotecas de análise (ver `requirements.txt`)
-* Banco local (`.db`) ([GitHub][1])
-
+* Banco local (`.db`)
 ---
 
 ## ▶️ Como Executar
@@ -209,19 +202,15 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-([GitHub][1])
-
 ### 5) Rodar o app
 
 ```bash
 streamlit run dash_app.py
 ```
 
-([GitHub][1])
-
 ---
 
 ## 📌 Observações
 
 * Projeto com foco **educacional e de portfólio**
-* O arquivo `dash_database.db` está no repositório para facilitar testes locais. ([GitHub][1])
+* O arquivo `dash_database.db` está no repositório para facilitar testes locais.
