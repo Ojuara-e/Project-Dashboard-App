@@ -2,11 +2,11 @@
 
 # Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
-conda create --name dsamp10 python=3.13
+conda create --name dashpj5 python=3.13
 
 # Ative o ambiente:
 
-conda activate dashapj5 (ou: source activate dsamp10)
+conda activate dashpj5 (ou: source activate dashpj5)
 
 # Instale o pip e as dependências:
 
@@ -20,7 +20,7 @@ streamlit run dash_app.py
 # Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 
 conda deactivate
-conda remove --name dashapj5 --all
+conda remove --name dashpj5 --all
 
 
 
