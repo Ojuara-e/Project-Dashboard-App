@@ -15,14 +15,14 @@ This README is available in two languages:
 ## 📌 Project Overview
 This repository contains a **Sales Analytics Dashboard Data App** built with **Python and Streamlit**, designed to deliver a clean, interactive interface for exploring sales indicators and business metrics.
 
-It is structured as a lightweight app that can run locally and uses a local database file for persistence (included in the repository). :contentReference[oaicite:1]{index=1}
+It is structured as a lightweight app that can run locally and uses a local database file for persistence (included in the repository).
 
 ---
 
 ## 🎯 Goals
 - Provide a simple and practical **dashboard experience** for Sales Analytics  
 - Practice building a **Data App** using Python (end-to-end)
-- Organize a small project with **code + requirements + local database** :contentReference[oaicite:2]{index=2}
+- Organize a small project with **code + requirements + local database**
 
 ---
 
@@ -30,7 +30,7 @@ It is structured as a lightweight app that can run locally and uses a local data
 - Interactive dashboard interface (Streamlit)
 - Business-friendly organization for metrics and indicators
 - Local persistence via database file (`.db`)
-- Easy setup using `requirements.txt` :contentReference[oaicite:3]{index=3}
+- Easy setup using `requirements.txt`
 
 ---
 
@@ -43,7 +43,6 @@ It is structured as a lightweight app that can run locally and uses a local data
 └─ LEIAME.txt
 
 ````
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -51,8 +50,7 @@ It is structured as a lightweight app that can run locally and uses a local data
 - Python
 - Streamlit
 - Data analysis libraries (see `requirements.txt`)
-- Local database (`.db`) :contentReference[oaicite:5]{index=5}
-
+- Local database (`.db`)
 ---
 
 ## ▶️ How to Run
