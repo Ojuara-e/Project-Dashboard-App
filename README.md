@@ -1,5 +1,5 @@
 # 📊 Project 5: Sales Analytics Dashboard App
-⭐ **Portfolio Project — Interactive Data App for Sales Analytics**
+⭐ **Portfolio Project: Interactive Data App for Sales Analytics**
 
 ---
 
@@ -90,8 +90,6 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
-
-([GitHub][1])
 
 ### 5) Run the app
 
